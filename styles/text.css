@@ -1,0 +1,44 @@
+p {
+    font-family: Arial;
+}
+
+.title {
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.author {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.content {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+    margin-top: 0;
+}
+
+.titleTesla{
+    font-family: Montserrat;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitleTesla {
+    font-family: Montserrat;
+    text-align: center;
+}
