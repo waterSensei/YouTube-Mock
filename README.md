@@ -1,6 +1,6 @@
 # YouTube-Mock
 
-This repository contains an HTML and CSS project that creates a fake static YouTube page that resembles the real thing. The page layout is designed to be fully responsive and automatically adjusts to the size of the window.
+Using HTML and CSS to create a fake static YouTube page that resembles the real thing. The page layout is designed to be fully responsive and automatically adjusts to the size of the window.
 
 <p align="center">
 <!--   <img src="/README/overview.png" alt= “Overview” width="800" > -->
