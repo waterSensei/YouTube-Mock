@@ -2,6 +2,10 @@
 
 This repository contains an HTML and CSS project that creates a fake static YouTube page that resembles the real thing. The page layout is designed to be fully responsive and automatically adjusts to the size of the window.
 
+<p align="center">
+  <img src="/README/overview.png" alt= “Overview” width="800" >
+</p>
+
 ## Getting Started
 
 1. [Clone](https://github.com/waterSensei/YouTube-Mock.git "YouTube-Mock") the repository to your local machine
@@ -19,4 +23,4 @@ waterSensei
 
 ## Acknowledgments
 
-- This project was inspired by SuperSimpleDev.
+- This project was inspired by [SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=11773s&ab_channel=SuperSimpleDev).
